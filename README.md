@@ -1,2 +1,2 @@
 # embla-carousal-autoplay
-Created with CodeSandbox
+Embla Carousal Autoplay
